@@ -224,7 +224,8 @@ int main()
 ```
 
 ## Outputs :
-### 1.
+### 1.![image](https://github.com/user-attachments/assets/22c2d38b-6e62-4d49-bc41-88294d58a002)
+
 
 
 ### 2.
