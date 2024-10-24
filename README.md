@@ -224,15 +224,18 @@ int main()
 ```
 
 ## Outputs :
-### 1.![image](https://github.com/user-attachments/assets/22c2d38b-6e62-4d49-bc41-88294d58a002)
+### 1.
+![image](https://github.com/user-attachments/assets/22c2d38b-6e62-4d49-bc41-88294d58a002)
 
 
 
-### 2.![image](https://github.com/user-attachments/assets/729dd4f4-d35c-4120-aa60-e092312a78b0)
+### 2
+![image](https://github.com/user-attachments/assets/729dd4f4-d35c-4120-aa60-e092312a78b0)
 
 
 
-### 3.![image](https://github.com/user-attachments/assets/62119e56-2414-451a-8248-cc299273dabe)
+### 3.
+![image](https://github.com/user-attachments/assets/62119e56-2414-451a-8248-cc299273dabe)
 
 
 
