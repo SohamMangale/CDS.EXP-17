@@ -232,7 +232,8 @@ int main()
 
 
 
-### 3.
+### 3.![image](https://github.com/user-attachments/assets/62119e56-2414-451a-8248-cc299273dabe)
+
 
 
 ## Conclusion :
