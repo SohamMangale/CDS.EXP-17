@@ -228,7 +228,8 @@ int main()
 
 
 
-### 2.
+### 2.![image](https://github.com/user-attachments/assets/729dd4f4-d35c-4120-aa60-e092312a78b0)
+
 
 
 ### 3.
